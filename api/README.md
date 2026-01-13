@@ -11,7 +11,7 @@ API FastAPI qui fournit deux endpoints pour consulter la météo actuelle et les
 - 🌡️ **Météo actuelle** : Température, ressenti, humidité, pression, vent
 - 📅 **Prévisions 7 jours** : Températures min/max, probabilité de pluie
 - 🌍 **Géocodage automatique** : Conversion ville → coordonnées GPS
-- 📚 **Documentation interactive** : Swagger UI et ReDoc
+- 📚 **Documentation interactive** : Swagger UI et ReDocd
 - 🚀 **Performance** : API asynchrone ultra-rapide
 - ✅ **Validation** : Pydantic pour la validation des données
 - 🔒 **CORS** : Configuré pour le développement cross-origin
